@@ -78,8 +78,6 @@ Please refer to [this website](https://discordjs.guide/preparations/adding-your-
 2. Run `npm install` in the root directory of the bot files.
 3. Run `node index` and you are done.
 
-if you need help contact me on discord `Hirzi#8701` or join [our discord support server](https://discord.gg/zv6maQRah3)
-
 ### Using Custom Emoji
 1. type `\` in guild that has custom emoji you want
 
