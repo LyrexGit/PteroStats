@@ -38,7 +38,7 @@ embed:
 
 # Message Button Configuration
 button:
-    enable: true
+    enable: false
     btn1:
         label: 'PteroStats'
         url: 'https://github.com/HirziDevs/PteroStats'
